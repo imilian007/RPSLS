@@ -1,0 +1,11 @@
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/obj/Debug/netcoreapp2.1/RockPaperScizors.csprojAssemblyReference.cache
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/obj/Debug/netcoreapp2.1/RockPaperScizors.csproj.CoreCompileInputs.cache
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/obj/Debug/netcoreapp2.1/RockPaperScizors.AssemblyInfoInputs.cache
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/obj/Debug/netcoreapp2.1/RockPaperScizors.AssemblyInfo.cs
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/bin/Debug/netcoreapp2.1/RockPaperScizors.deps.json
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/bin/Debug/netcoreapp2.1/RockPaperScizors.runtimeconfig.json
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/bin/Debug/netcoreapp2.1/RockPaperScizors.runtimeconfig.dev.json
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/bin/Debug/netcoreapp2.1/RockPaperScizors.dll
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/bin/Debug/netcoreapp2.1/RockPaperScizors.pdb
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/obj/Debug/netcoreapp2.1/RockPaperScizors.dll
+/Users/maxketter/Projects/RockPaperScizors/RockPaperScizors/obj/Debug/netcoreapp2.1/RockPaperScizors.pdb
